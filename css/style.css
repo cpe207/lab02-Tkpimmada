@@ -1,0 +1,24 @@
+body{
+    background-color: pink;
+}
+.center-header {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    
+  }
+  .skill-container {
+    border: solid #ffffff;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+    margin-bottom: 10px;
+  }
+  
+  .skill-container > h3 {
+    color: rgb(0, 0, 0);
+    
+  }
+ .skill-container {
+ background: #e6cefe;
+  }
